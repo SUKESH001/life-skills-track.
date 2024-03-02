@@ -73,8 +73,6 @@ Despite the advancements in data warehousing technologies, several challenges re
 In conclusion, data warehousing is a cornerstone of modern data management and analysis, offering organizations invaluable insights for informed decision-making and strategic planning. Throughout this paper, we have explored the advancements in data warehousing technologies, architectures, and applications, highlighting the pivotal role of consolidating, storing, and analyzing vast volumes of data from disparate sources. Despite its transformative potential, data warehousing is not without challenges, including data quality issues, scalability concerns, and privacy risks. Looking ahead, the future of data warehousing lies in harnessing advanced analytics, strengthening data governance practices, embracing cloud-native architectures, and enabling real-time data processing capabilities. By addressing these challenges and embracing emerging trends, organizations can unlock the full potential of their data assets, driving innovation, competitiveness, and growth in today's data-driven landscape.
 
 ## References
-* Kimball, R., & Ross, M. (2013). The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling. John Wiley & Sons.
-* Inmon, W. H., & Hackathorn, R. D. (2008). Using the Data Warehouse. Wiley Publishing.
-* Chaudhuri, S., & Dayal, U. (1997). An Overview of Data Warehousing and OLAP Technology. ACM SIGMOD Record, 26(1), 65-74.
-* Gartner. (2020). Magic Quadrant for Data Management Solutions for Analytics. Gartner.
-* Codd, E. F. (1993). Providing OLAP (Online Analytical Processing) to User-Analysts: An IT Mandate. E.F. Codd & Associates.
+* [http://160592857366.free.fr/joe/ebooks/ShareData/The%20Data%20Warehouse%20Toolkit.pdf](http://160592857366.free.fr/joe/ebooks/ShareData/The%20Data%20Warehouse%20Toolkit.pdf)
+* [https://fit.hcmute.edu.vn/Resources/Docs/SubDomain/fit/ThayTuan/DataWH/Bulding%20the%20Data%20Warehouse%204%20Edition.pdf](https://fit.hcmute.edu.vn/Resources/Docs/SubDomain/fit/ThayTuan/DataWH/Bulding%20the%20Data%20Warehouse%204%20Edition.pdf)
+* [https://dl.acm.org/doi/10.1145/248603.248616](https://dl.acm.org/doi/10.1145/248603.248616).
